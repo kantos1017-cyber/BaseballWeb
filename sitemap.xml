@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+
+    <url>
+        <loc>http://127.0.0.1:5500/BaseballWeb/index.html</loc>
+    </url>
+
+    <url>
+        <loc>http://127.0.0.1:5500/BaseballWeb/articles/articles.html</loc>
+    </url>
+
+    <url>
+        <loc>http://127.0.0.1:5500/BaseballWeb/articles/pitching-training.html</loc>
+    </url>
+
+    <url>
+        <loc>http://127.0.0.1:5500/BaseballWeb/articles/squat-training.html</loc>
+    </url>
+
+    <url>
+        <loc>http://127.0.0.1:5500/BaseballWeb/articles/care.html</loc>
+    </url>
+
+    <url>
+        <loc>http://127.0.0.1:5500/BaseballWeb/articles/protein.html</loc>
+    </url>
+
+    <url>
+        <loc>http://127.0.0.1:5500/BaseballWeb/articles/velocity-causes.html</loc>
+    </url>
+
+    <url>
+        <loc>http://127.0.0.1:5500/BaseballWeb/articles/velocity-muscles.html</loc>
+    </url>
+
+    <url>
+        <loc>http://127.0.0.1:5500/BaseballWeb/operator.html</loc>
+    </url>
+
+    <url>
+        <loc>http://127.0.0.1:5500/BaseballWeb/privacy.html</loc>
+    </url>
+
+    <url>
+        <loc>http://127.0.0.1:5500/BaseballWeb/disclaimer.html</loc>
+    </url>
+
+    <url>
+        <loc>http://127.0.0.1:5500/BaseballWeb/contact.html</loc>
+    </url>
+
+</urlset>

@@ -1,0 +1,150 @@
+<!DOCTYPE html>
+<html lang="ja">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title>お問い合わせ | 球速アップ研究所</title>
+
+    <meta
+        name="description"
+        content="球速アップ研究所へのお問い合わせページです。"
+    >
+
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+    <!-- ヘッダー -->
+    <header class="site-header">
+
+        <div class="header-inner">
+
+            <a href="index.html" class="site-logo">
+                球速アップ研究所
+            </a>
+
+            <nav class="site-nav">
+                <a href="index.html">ホーム</a>
+                <a href="articles/articles.html">記事一覧</a>
+            </nav>
+
+        </div>
+
+    </header>
+
+
+    <!-- メインコンテンツ -->
+    <main class="article-page">
+
+        <div class="article-container">
+
+            <div class="article-header">
+
+                <span class="category">
+                    サイト情報
+                </span>
+
+                <h1>
+                    お問い合わせ
+                </h1>
+
+            </div>
+
+
+            <article class="article-body">
+
+                <p>
+                    球速アップ研究所へのお問い合わせは、
+                    以下のフォームよりお願いいたします。
+                </p>
+
+
+                <form class="contact-form">
+
+                    <div class="form-group">
+
+                        <label for="name">
+                            お名前
+                        </label>
+
+                        <input
+                            type="text"
+                            id="name"
+                            name="name"
+                            placeholder="お名前を入力してください"
+                            required
+                        >
+
+                    </div>
+
+
+                    <div class="form-group">
+
+                        <label for="email">
+                            メールアドレス
+                        </label>
+
+                        <input
+                            type="email"
+                            id="email"
+                            name="email"
+                            placeholder="メールアドレスを入力してください"
+                            required
+                        >
+
+                    </div>
+
+
+                    <div class="form-group">
+
+                        <label for="message">
+                            お問い合わせ内容
+                        </label>
+
+                        <textarea
+                            id="message"
+                            name="message"
+                            rows="8"
+                            placeholder="お問い合わせ内容を入力してください"
+                            required
+                        ></textarea>
+
+                    </div>
+
+
+                    <button type="submit">
+                        送信する
+                    </button>
+
+                </form>
+
+
+                <p>
+                    ※現在、このフォームは入力画面のみとなっており、
+                    実際のメール送信機能は設定していません。
+                </p>
+
+            </article>
+
+        </div>
+
+    </main>
+
+
+    <!-- フッター -->
+    <footer class="footer">
+
+        <p>
+            © 2026 球速アップ研究所
+        </p>
+
+    </footer>
+
+    <script src="script.js"></script>
+
+</body>
+
+</html>

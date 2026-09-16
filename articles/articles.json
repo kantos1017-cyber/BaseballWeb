@@ -1,0 +1,55 @@
+[
+    {
+        "title": "130km/hから150km/hを目指すピッチャーの筋トレ5選",
+        "category": "トレーニング",
+        "date": "2026.09.10",
+        "description": "球速アップを目指す投手が優先して鍛えたい部位とトレーニング方法を紹介。",
+        "image": "pitching.jpg",
+        "url": "pitching-training.html"
+    },
+
+    {
+        "title": "ピッチャーにスクワットは必要？球速との関係を解説",
+        "category": "筋トレ",
+        "date": "2026.09.11",
+        "description": "下半身の筋力と投球動作の関係、スクワットを行う際のポイントを解説。",
+        "image": "squat.jpg",
+        "url": "squat-training.html"
+    },
+
+    {
+        "title": "投球後の肩・肘を守るためにやっておきたいケア",
+        "category": "身体のケア",
+        "date": "2026.09.12",
+        "description": "投手にとって重要な肩・肘のコンディショニングについて紹介。",
+        "image": "care.jpg",
+        "url": "care.html"
+    },
+
+    {
+        "title": "ピッチャーにおすすめのプロテイン5選",
+        "category": "栄養",
+        "date": "2026.09.13",
+        "description": "トレーニングをする投手が知っておきたいプロテインの選び方を紹介。",
+        "image": "protein.jpg",
+        "url": "protein.html"
+    },
+
+    {
+        "title": "ピッチャーの球速が伸びない原因5選",
+        "category": "球速アップ",
+        "date": "2026.09.15",
+        "description": "球速が伸び悩むピッチャーが見直したいポイントを5つ紹介。130km/hから140km/hを目指すための考え方を解説。",
+        "image": "pitching.jpg",
+        "url": "velocity-causes.html"
+    },
+
+    {
+        "title": "ピッチャーの球速を上げるために必要な筋肉5選",
+        "category": "球速アップ",
+        "date": "2026.09.16",
+        "description": "ピッチャーの球速アップに関係する筋肉を5つ紹介。お尻、太もも、体幹、背中、肩・腕周辺など、130km/hから140km/hを目指す投手が鍛えたい部位とトレーニング方法を解説します。",
+        "image": "pitching.jpg",
+        "url": "velocity-muscles.html"
+    }
+]
