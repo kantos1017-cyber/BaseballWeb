@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: http://127.0.0.1:5500/BaseballWeb/sitemap.xml
+Sitemap: https://kantos1017-cyber.github.io/BaseballWeb/sitemap.xml
