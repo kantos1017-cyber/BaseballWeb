@@ -60,5 +60,32 @@
         "description": "ピッチャー向けトレーニングチューブの選び方を解説。強度や形状の違い、自宅でできるトレーニング、購入前に確認したいポイントを紹介します。",
         "image": "training-tube.jpg",
         "url": "training-tube.html"
+    },
+
+    {
+        "title": "球速アップを目指す投手の自宅トレーニング7選",
+        "category": "トレーニング",
+        "date": "2026.10.13",
+        "description": "球速アップを目指す投手向けに、自宅でできる下半身・体幹・肩周りのトレーニング7選を紹介。初心者にもわかりやすく、トレーニング方法と安全に続けるポイントを解説します。",
+        "image": "hometraining.jpg",
+        "url": "pitcher-home-training.html"
+    },
+
+    {
+        "title": "スマホでできる投球フォームの撮影・チェック方法",
+        "category": "投球フォーム",
+        "date": "2026.10.13",
+        "description": "スマートフォンで投球フォームを撮影する方法を解説。おすすめの撮影位置や動画で確認したいポイント、フォームを見直す際の注意点を紹介します。",
+        "image": "video.jpg",
+        "url": "pitching-video-analysis.html"
+    },
+
+    {
+        "title": "ピッチャーの試合前ウォーミングアップの基本",
+        "category": "コンディショニング",
+        "date": "2026.10.13",
+        "description": "投手の試合前に意識したいウォーミングアップの流れを紹介。軽い運動からキャッチボールへ段階的に強度を上げる方法と、疲労や痛みへの注意点を解説します。",
+        "image": "warmup.jpg",
+        "url": "pitcher-game-warmup.html"
     }
 ]
