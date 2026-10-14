@@ -1,65 +1,20 @@
 [
     {
-        "title": "130km/hから140km/hを目指すピッチャーの筋トレ5選",
+        "title": "ピッチャーの疲労管理｜球速を維持するための休養と練習量の調整方法",
+        "category": "コンディショニング",
+        "date": "2026.10.14",
+        "description": "球速アップを目指すピッチャーに向けて、疲労のサインや登板後の休養、練習量の調整方法を解説。睡眠・栄養・身体のケアを組み合わせた疲労管理の基本を紹介します。",
+        "image": "fatigue-management.jpg",
+        "url": "fatigue-management.html"
+    },
+
+    {
+        "title": "球速アップにつながる体幹トレーニング5選！投手に必要な筋力と鍛え方を解説",
         "category": "トレーニング",
-        "date": "2026.09.10",
-        "description": "球速アップを目指す投手が優先して鍛えたい部位とトレーニング方法を紹介。",
-        "image": "muscletraining.jpg",
-        "url": "pitching-training.html"
-    },
-
-    {
-        "title": "ピッチャーにスクワットは必要？球速との関係を解説",
-        "category": "筋トレ",
-        "date": "2026.09.11",
-        "description": "下半身の筋力と投球動作の関係、スクワットを行う際のポイントを解説。",
-        "image": "squat.jpg",
-        "url": "squat-training.html"
-    },
-
-    {
-        "title": "投球後の肩・肘を守るためにやっておきたいケア",
-        "category": "身体のケア",
-        "date": "2026.09.12",
-        "description": "投手にとって重要な肩・肘のコンディショニングについて紹介。",
-        "image": "care.jpg",
-        "url": "care.html"
-    },
-
-    {
-        "title": "ピッチャーにおすすめのプロテイン5選",
-        "category": "栄養",
-        "date": "2026.09.13",
-        "description": "トレーニングをする投手が知っておきたいプロテインの選び方を紹介。",
-        "image": "protein.jpg",
-        "url": "protein.html"
-    },
-
-    {
-        "title": "ピッチャーの球速が伸びない原因5選",
-        "category": "球速アップ",
-        "date": "2026.09.15",
-        "description": "球速が伸び悩むピッチャーが見直したいポイントを5つ紹介。130km/hから140km/hを目指すための考え方を解説。",
-        "image": "genin.jpg",
-        "url": "velocity-causes.html"
-    },
-
-    {
-        "title": "ピッチャーの球速を上げるために必要な筋肉5選",
-        "category": "球速アップ",
-        "date": "2026.09.16",
-        "description": "ピッチャーの球速アップに関係する筋肉を5つ紹介。お尻、太もも、体幹、背中、肩・腕周辺など、130km/hから140km/hを目指す投手が鍛えたい部位とトレーニング方法を解説します。",
-        "image": "muscle.jpg",
-        "url": "velocity-muscles.html"
-    },
-
-    {
-        "title": "ピッチャーにおすすめのトレーニングチューブの選び方",
-        "category": "トレーニング用品",
-        "date": "2026.10.09",
-        "description": "ピッチャー向けトレーニングチューブの選び方を解説。強度や形状の違い、自宅でできるトレーニング、購入前に確認したいポイントを紹介します。",
-        "image": "training-tube.jpg",
-        "url": "training-tube.html"
+        "date": "2026.10.14",
+        "description": "球速アップを目指す投手におすすめの体幹トレーニング5選を紹介。プランクやサイドプランクなど、自宅でできるメニューの正しいフォームや回数、安全に取り組むポイントを解説します。",
+        "image": "core-training.jpg",
+        "url": "core-training.html"
     },
 
     {
@@ -70,7 +25,6 @@
         "image": "hometraining.jpg",
         "url": "pitcher-home-training.html"
     },
-
     {
         "title": "スマホでできる投球フォームの撮影・チェック方法",
         "category": "投球フォーム",
@@ -79,7 +33,6 @@
         "image": "video.jpg",
         "url": "pitching-video-analysis.html"
     },
-
     {
         "title": "ピッチャーの試合前ウォーミングアップの基本",
         "category": "コンディショニング",
@@ -87,5 +40,61 @@
         "description": "投手の試合前に意識したいウォーミングアップの流れを紹介。軽い運動からキャッチボールへ段階的に強度を上げる方法と、疲労や痛みへの注意点を解説します。",
         "image": "warmup.jpg",
         "url": "pitcher-game-warmup.html"
+    },
+    {
+        "title": "ピッチャーにおすすめのトレーニングチューブの選び方",
+        "category": "トレーニング用品",
+        "date": "2026.10.09",
+        "description": "ピッチャー向けトレーニングチューブの選び方を解説。強度や形状の違い、自宅でできるトレーニング、購入前に確認したいポイントを紹介します。",
+        "image": "training-tube.jpg",
+        "url": "training-tube.html"
+    },
+    {
+        "title": "ピッチャーの球速を上げるために必要な筋肉5選",
+        "category": "球速アップ",
+        "date": "2026.09.16",
+        "description": "ピッチャーの球速アップに関係する筋肉を5つ紹介。お尻、太もも、体幹、背中、肩・腕周辺など、130km/hから140km/hを目指す投手が鍛えたい部位とトレーニング方法を解説します。",
+        "image": "muscle.jpg",
+        "url": "velocity-muscles.html"
+    },
+    {
+        "title": "ピッチャーの球速が伸びない原因5選",
+        "category": "球速アップ",
+        "date": "2026.09.15",
+        "description": "球速が伸び悩むピッチャーが見直したいポイントを5つ紹介。130km/hから140km/hを目指すための考え方を解説。",
+        "image": "genin.jpg",
+        "url": "velocity-causes.html"
+    },
+    {
+        "title": "ピッチャーにおすすめのプロテイン5選",
+        "category": "栄養",
+        "date": "2026.09.13",
+        "description": "トレーニングをする投手が知っておきたいプロテインの選び方を紹介。",
+        "image": "protein.jpg",
+        "url": "protein.html"
+    },
+    {
+        "title": "投球後の肩・肘を守るためにやっておきたいケア",
+        "category": "身体のケア",
+        "date": "2026.09.12",
+        "description": "投手にとって重要な肩・肘のコンディショニングについて紹介。",
+        "image": "care.jpg",
+        "url": "care.html"
+    },
+    {
+        "title": "ピッチャーにスクワットは必要？球速との関係を解説",
+        "category": "筋トレ",
+        "date": "2026.09.11",
+        "description": "下半身の筋力と投球動作の関係、スクワットを行う際のポイントを解説。",
+        "image": "squat.jpg",
+        "url": "squat-training.html"
+    },
+    {
+        "title": "130km/hから140km/hを目指すピッチャーの筋トレ5選",
+        "category": "トレーニング",
+        "date": "2026.09.10",
+        "description": "球速アップを目指す投手が優先して鍛えたい部位とトレーニング方法を紹介。",
+        "image": "muscletraining.jpg",
+        "url": "pitching-training.html"
     }
 ]
